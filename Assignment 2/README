@@ -1,0 +1,4 @@
+# Run Code
+
+g++ asm.cpp 
+./a.out

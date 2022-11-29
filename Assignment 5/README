@@ -1,0 +1,8 @@
+# Run Code
+
+javac Assg5.java
+java Assg5
+
+OR
+
+java Assg5.java
